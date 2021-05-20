@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MorningQuote</string>
+    <string name="affermazione_1">Io sono forte</string>
+    <string name="affermazione_2">Io credo in me stesso</string>
+    <string name="affermazione_3">Ogni giorno è un giorno migliore per crescere
+    ed essere la versione migliore di me stesso</string>
+    <string name="affermazione_4">Ogni sfida della mia vita è un qualcosa dalla quale imparare</string>
+    <string name="affermazione_5">Ho molto da essere grato</string>
+    <string name="affermazione_6">Arriveranno ottime cose nella mia vita</string>
+    <string name="affermazione_7">Nuove opportunità mi aspettano</string>
+    <string name="affermazione_8">Ho il coraggio di seguire il mio cuore</string>
+    <string name="affermazione_9">Tutto sarà chiaro al momento opportuno</string>
+    <string name="affermazione_10">Sarò presente in ogni momento di questo giorno</string>
+</resources>
